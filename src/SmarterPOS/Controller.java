@@ -1,4 +1,4 @@
-package sample;
+package SmarterPOS;
 
 public class Controller {
 }
